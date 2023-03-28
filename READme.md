@@ -10,3 +10,6 @@ Project Directory
 6 BackUp Folder 
 7 Screenshot Folder 
 
+Current Directory: /Users/student/Minochka's Project Folder
+Next Directory: None
+Previous Directory: None
